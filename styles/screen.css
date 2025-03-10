@@ -48,3 +48,14 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+#books, #books td {
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+    border: 1px solid;
+}
+
+#books td {
+    padding: 15px;
+}
